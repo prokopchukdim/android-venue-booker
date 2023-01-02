@@ -43,3 +43,21 @@ They can then edit the detais of any existing event.
 They can also create new venues and provide the event/sport types that are available at this venue
 ![image](https://user-images.githubusercontent.com/87666671/210279957-deb49033-db33-4ed4-a4b1-1d00b0fc45b4.png)
 
+# UML Diagrams
+## User UML Diagram
+![image](https://user-images.githubusercontent.com/87666671/210281340-de56ce84-0207-4694-927f-893cbb7eede0.png)
+
+## Customer UML Diagram
+![image](https://user-images.githubusercontent.com/87666671/210281419-96f8e7ef-38be-4fb6-81a9-9c18b15e61bf.png)
+
+## Admin UML Diagram
+![image](https://user-images.githubusercontent.com/87666671/210281324-d1b8490c-7ef8-4271-b9f1-1133325edc14.png)
+
+## Venue UML Diagram
+![image](https://user-images.githubusercontent.com/87666671/210281481-bb6e5838-d55f-4410-96b0-2ba2525467c0.png)
+
+## Event UML Diagram
+![image](https://user-images.githubusercontent.com/87666671/210281530-3661ba94-cf90-4ff0-b7f3-d5e8b4e95ba9.png)
+
+
+
