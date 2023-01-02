@@ -1,6 +1,17 @@
 # android-venue-booker
 An Android, Java, and Firebase application that allows for the creation and booking of sports events and venues. Various CRUD functions are split among customers and administrators. Data storage and authentication is done through Google Firebase.
 
+# Table of contents
+   * [Application Overview](#application-overview)
+      * [Customers](#customers)
+      * [Administrators](#administrators)
+   * [UML Diagrams](#uml-diagrams)
+      * [User UML Diagram](#user-uml-diagram)
+      * [Customer UML Diagram](#customer-uml-diagram)
+      * [Admin UML Diagram](#admin-uml-diagram)
+      * [Venue UML Diagram](#venue-uml-diagram)
+      * [Event UML Diagram](#event-uml-diagram)
+
 # Application Overview
 For testing out the application with some test data, you can log in as p@p.com with password pppppp to see customer screens, or admin@gmail.com with password admin123 to see admin screens.
 
